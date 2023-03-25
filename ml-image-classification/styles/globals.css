@@ -1,0 +1,10 @@
+.homeHeader {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    padding: 15px 0px;
+    color: black;
+    column-gap: 25px;
+    width: 100%;   
+
+}
